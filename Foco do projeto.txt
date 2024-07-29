@@ -1,0 +1,2 @@
+Criar um bot que vai entrar em um site e pesquisar em um campo o CPF de uma pessoa
+que pode ou não estar devendo um pagamento
